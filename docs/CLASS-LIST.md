@@ -1,9 +1,16 @@
+*routing géré par le framework*
+
 **MODELS**
 - USERS
-- PAGE
 - RECIPE
 
 **MANAGERS**
--usermanager.php
--recipemanager.php
--route.php
+-usermanager
+-recipemanager
+
+**CONTROLLER**
+
+-usercontroller
+-recipecontroller
+-homecontroller
+-admincontroller

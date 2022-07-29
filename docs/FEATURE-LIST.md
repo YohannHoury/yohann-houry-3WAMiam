@@ -1,14 +1,13 @@
 **FONCTIONS**
-    - connection
+*routing géré par le framework*    
     
     *user*
-    - read
-    - create
-    - update
-    - delete
-    - share
+    - registration
+    - login
+    - logout
     
     *recipe*
+    - share
     - read
     - create
     - update

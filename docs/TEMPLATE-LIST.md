@@ -1,15 +1,18 @@
 **TEMPLATES**
--homepage(main)*
-    *layout*
-    header
-    main(content)
-    footer
-    
-    
-*main content*
+
+*layout*layout.html.twig
+
+-homepage(main)
 -login
     form
-- recipe
+-register
+   
+- recipe(crud)
+    form
 - about
 - contact
     form
+
+admin
+
+error 404
