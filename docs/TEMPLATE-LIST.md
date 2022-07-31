@@ -1,6 +1,6 @@
 **TEMPLATES**
 
-*layout*layout.html.twig
+*layout*  layout.html.twig
 
 -homepage(main)
 -login
